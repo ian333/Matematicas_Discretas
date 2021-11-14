@@ -1,7 +1,8 @@
-# Matematicas_Discretas
-Curso de Matemáticas Discretas de Platzi 
+# Matematicas Discretas
 
-# Matriz de Adyacencia
+Curso de Matemáticas Discretas de Platzi
+
+## Matriz de Adyacencia
 
 ## Apuntes de clase
 
