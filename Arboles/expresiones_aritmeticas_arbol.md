@@ -11,3 +11,8 @@ Al igual que los arboles tenemos tres maneras de recorrer una expresión aritmé
 - **Pre fijo:** raíz, izq, der
 - **In fijo:** izq, raíz, der
 - **Pos fijo:** izq, der, raíz
+
+
+# Ejemplo de conversion Expresiones ➡️ Arbol
+
+![Example_image](https://i.ibb.co/kxdsKDt/expr-arth-to-tree-tranversal-02-03-2020-21-04.jpg)
