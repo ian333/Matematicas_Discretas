@@ -6,7 +6,7 @@
 ## Secuencia del algoritmo de Prim
 
 - Seleccionamos un vértice cualquiera.
-- Seleccionamos la conexión de menor peso conectada al vértice.
+- Seleccionamos la conexión de **menor peso** conectada al vértice.
 - En cada iteración seleccionamos la arista de menor peso, relacionada con los vértices conectados.
 - El algoritmo finaliza cuando todos los vértices están conectados con (n-1) aristas, por ejemplo si tenemos 9 vértices, tendremos 8 conexiones.
 
